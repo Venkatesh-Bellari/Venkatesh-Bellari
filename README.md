@@ -92,7 +92,7 @@
 ### 🙌 Let’s Connect!
 
 📧 **Email:** venkateshbellari@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/venkatesh-bellari)  
+🔗 [LinkedIn](www.linkedin.com/in/venkatechie)  
 🌐 Portfolio: *Coming Soon*
 
 ---
