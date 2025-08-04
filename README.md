@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/venkatesh-bellari/" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/venkatechie/" target="_blank">LinkedIn</a> •
   <a href="https://hirepath.netlify.app/" target="_blank">HirePath</a> •
   <a href="#">Portfolio (Coming Soon)</a>
 </p>
@@ -92,7 +92,7 @@
 ### 🙌 Let’s Connect!
 
 📧 **Email:** venkateshbellari@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/venkatechie)  
+🔗 [LinkedIn](https://www.linkedin.com/in/venkatechie/)  
 🌐 Portfolio: *Coming Soon*
 
 ---
