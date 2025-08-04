@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkatesh-bellari/" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/Venkatesh-Bellari/AI-Virtual-Doctor" target="_blank">AI Virtual Doctor</a> •
+  <a href="https://hirepath.netlify.app/" target="_blank">HirePath</a> •
   <a href="#">Portfolio (Coming Soon)</a>
 </p>
 
