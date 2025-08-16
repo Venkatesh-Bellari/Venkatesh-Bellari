@@ -57,7 +57,7 @@
 🎙️ Voice symptom recognition  
 📊 Lab report & prescription analysis  
 ⏰ Medication reminders & multilingual support  
-📞 Connects patients to doctors in real time  
+📞 Connects patients to doctors in real time. 
 🌐 [View Repo](https://github.com/Venkatesh-Bellari/InstantDoc)
 
 ---
