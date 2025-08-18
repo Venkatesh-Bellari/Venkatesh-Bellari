@@ -67,7 +67,7 @@
 - 🌱 Currently mastering **AI for Healthcare**, **Prompt Engineering**, and **Cloud Deployment**
 - 🧪 I experiment with new tech stacks for fun projects
 - ⚡ Fail fast. Learn fast. Build better.
-- 🎯 Career Goal: Create impactful products in **AI + Healthcare**
+- 🎯 Career Goal: Create impactful products in **AI**
 - 😄 Motto: Build solutions that care. Not just code.
 
 ---
