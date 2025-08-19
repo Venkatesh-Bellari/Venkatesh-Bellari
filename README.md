@@ -21,7 +21,7 @@
 
 - 👨‍💻 Final year B.Tech CSE student passionate about innovation
 - 🧠 Building smart systems using AI, Machine Learning & NLP
-- 💡 I love solving real-life problems with voice, vision & intelligence
+- 💡 I love solving real-life problems with  vision & intelligence
 - 🌐 Full Stack Developer (MERN, Firebase, APIs)
 - 🎙️ Specialized in real-time voice-driven apps & health tech
 - 🧘 Calm designer with a flair for clean UI/UX
