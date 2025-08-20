@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Final year B.Tech CSE student passionate about innovation
+- 👨‍💻 Final year B.Tech CSE student passionate about innovation and development 
 - 🧠 Building smart systems using AI, Machine Learning & NLP
 - 💡 I love solving real-life problems with  vision & intelligence
 - 🌐 Full Stack Developer (MERN, Firebase, APIs)
