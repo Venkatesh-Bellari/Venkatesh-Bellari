@@ -23,7 +23,7 @@
 - 🧠 Building smart systems using AI, Machine Learning & NLP
 - 💡 I love solving real-life problems with  vision & intelligence
 - 🌐 Full Stack Developer (MERN, Firebase, APIs)
-- 🎙️ Specialized in real-time voice-driven apps & health tech
+- 🎙️ I specialize in creating apps for real-world problem solving.
 - 🧘 Calm designer with a flair for clean UI/UX
 - 🏏 Cricket fan | Tech content creator | Lifelong learner
 
