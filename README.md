@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 B.Tech Final Year | Computer Science & Engineering <br>
-💻 Full Stack Developer | AI/ML Explorer | Voice-Tech Enthusiast
+💻 Full Stack Developer | AI/ML Explorer 
 </p>
 
 <p align="center">
