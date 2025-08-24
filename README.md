@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`C` `C++` `Python` `JavaScript` `SQL` `Java`
+`C`  `Python` `JavaScript` `SQL` `Java` `R`
 
 **Web & App Dev:**  
 `HTML5` `CSS3` `React.js` `Node.js` `Express.js` `Firebase` `Bootstrap` `Tailwind CSS`
