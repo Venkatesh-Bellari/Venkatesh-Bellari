@@ -54,7 +54,6 @@
 > Your voice-activated health assistant that listens, understands, and helps.
 
 🛠️ Python · NLP · ML · Firebase · React  
-🎙️ Voice symptom recognition  
 📊 Lab report & prescription analysis  
 ⏰ Medication reminders & multilingual support  
 📞 Connects patients to doctors in real time. 
