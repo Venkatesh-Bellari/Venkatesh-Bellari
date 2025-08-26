@@ -35,7 +35,7 @@
 `C`  `Python` `JavaScript` `SQL` `Java` `R`
 
 **Web & App Dev:**  
-`HTML5` `CSS3` `React.js` `Node.js` `Express.js` `Firebase` `Bootstrap` `Tailwind CSS`
+`HTML5` `CSS3` `React.js` `Node.js` `Typescript` `Firebase` `Bootstrap` `Tailwind CSS`
 
 **AI/ML & Tools:**  
 `TensorFlow` `Scikit-learn` `OpenCV` `NLP` `Pandas` `Matplotlib`
