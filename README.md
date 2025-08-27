@@ -51,7 +51,7 @@
 ## 🌟 Featured Projects
 
 ### 🩺 **AI-Powered Real-Time Virtual Doctor**
-> Your voice-activated health assistant that listens, understands, and helps.
+> Your voice-activated health assistant that speaks, understands, and helps.
 
 🛠️ Python · NLP · ML · Firebase · React  
 📊 Lab report & prescription analysis  
