@@ -63,7 +63,7 @@
 
 ## ✨ Fun Facts & My Tech Journey
 
-- 🌱 Currently mastering **AI for Healthcare**, **Prompt Engineering**, and **Cloud Deployment**
+- 🌱 Currently mastering **AI**, **Prompt Engineering**, and **Cloud Deployment**
 - 🧪 I experiment with new tech stacks for fun projects
 - ⚡ Fail fast. Learn fast. Build better.
 - 🎯 Career Goal: Create impactful products in **AI**
