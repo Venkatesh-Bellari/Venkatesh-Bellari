@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkatesh Bellari</h1>
 
 <p align="center">
-🎓 B.Tech Final Year Student | Computer Science & Engineering <br>
+🎓 B.Tech Final Year Student | Computer Science and Engineering <br>
 💻 Full Stack Developer | AI/ML Explorer 
 </p>
 
