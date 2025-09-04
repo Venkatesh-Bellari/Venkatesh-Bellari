@@ -96,4 +96,4 @@
 
 ---
 
-_“Code with compassion. Build with purpose. Lead with curiosity.”_
+_“Code with compassion. Build with purpose. Lead with curiosity in life .”_
