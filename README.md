@@ -7,7 +7,7 @@
 
 <p align="center">
   • <a href="https://www.linkedin.com/in/venkatechie/" target="_blank">LinkedIn</a> •
-  <a href="https://hirepath.netlify.app/" target="_blank">HirePath</a> 
+  <a href="https://hirepath.netlify.app/" target="_blank">HirePath</a>
 <!--   <a href="#">Portfolio (Coming Soon)</a> -->
 </p>
 
@@ -63,7 +63,7 @@
 
 ## ✨ Fun Facts & My Tech Journey
 
-- 🌱 Currently mastering **AI**, **Prompt Engineering**, and **Cloud Deployment**
+- 🌱 Currently mastering **AI**, **Prompt Engineering**, **MERN Stack** and **Cloud Deployment**
 - 🧪 I experiment with new tech stacks for fun projects
 - ⚡ Fail fast. Learn fast. Build better.
 - 🎯 Career Goal: Create impactful products in **AI**
