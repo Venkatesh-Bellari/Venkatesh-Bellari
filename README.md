@@ -38,7 +38,7 @@
 `HTML5` `CSS3` `React.js` `Node.js` `Typescript` `Firebase` `Bootstrap` `Tailwind CSS`
 
 **AI/ML & Tools:**  
-`TensorFlow` `Scikit-learn` `` `NLP` `Pandas` `Matplotlib`
+`TensorFlow` `Scikit-learn`  `Pandas` `Matplotlib`
 
 **Databases & Backend:**  
 `MongoDB` `MySQL` `PostgreSQL`
