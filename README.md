@@ -41,7 +41,7 @@
 `TensorFlow` `Scikit-learn`  `Pandas` `Matplotlib`
 
 **Databases & Backend:**  
-`MongoDB` `MySQL` `PostgreSQL`
+`MongoDB` `MySQL` `PostgreSQL` `Firebase `
 
 **Dev Tools:**  
 `Git` `GitHub` `VS Code` `Postman` `Netlify`
