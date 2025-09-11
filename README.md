@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 B.Tech Final Year Student | Computer Science and Engineering <br>
-💻 Full Stack Developer | AI/ML  
+💻 Full Stack Developer | AI/ML | Data Scientist 
 </p>
 
 <p align="center">
