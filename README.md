@@ -25,7 +25,7 @@
 - 🌐 Full Stack Developer (MERN, Firebase, APIs)
 - 🎙️ I specialize in creating apps for real-world problem solving.
 - 🧘 Calm designer with a flair for clean UI/UX
-- 🏏 Cricket fan | Tech content creator | Lifelong learner
+- 🏏 Cricket fan | Tech content creator | Lifelong learner!
 
 ---
 
