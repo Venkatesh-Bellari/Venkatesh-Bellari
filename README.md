@@ -7,8 +7,8 @@
 
 <p align="center">
   • <a href="https://www.linkedin.com/in/venkatechie/" target="_blank">LinkedIn</a> •
-  <a href="https://hirepath.netlify.app/" target="_blank">HirePath</a>
- <a href="#">Portfolio (Coming Soon)</a> 
+ ° <a href="https://hirepath.netlify.app/" target="_blank">HirePath</a>
+° <a href="#">Portfolio (Coming Soon)</a> 
 </p>
 
 <p align="center">
